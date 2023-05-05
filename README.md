@@ -1,7 +1,10 @@
-# Assignment 01 - Spam Detector
-> Course: CSCI 2020U: Software Systems Development and Integration
+###### *This was a university project, copying code not allowed*
 
-## Group: David Houle-Tymeczko, Sheida Ebrahimi Siaghi, Siddhant Das
+
+## Developers:
+* #### [Siddhant Das](https://github.com/Sid-26)
+* #### [Sheida Ebrahimi Siaghi](https://github.com/Sheida-Ebrahimi) 
+* #### [David Houle-Tymeczko](https://github.com/DavidHTwastaken)
 
 ## Project Overview
 Our project uses naive Bayes spam filtering to find the probability that an email, given in a text file, is spam.
