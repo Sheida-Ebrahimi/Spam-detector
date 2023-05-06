@@ -1,3 +1,4 @@
+# Spam Detector
 ###### *This was a university project, copying code not allowed*
 
 
